@@ -1,4 +1,4 @@
-<h2 align="left">console.log("Olá, meu nome é Jonathan Oliveira");</h2>
+<h2 align="left">console.log("Olá, me chamo Jonathan Oliveira");</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan0lv&locale=pt-br&theme=github_dark" height="140" alt="gráfico de estatísticas" />
